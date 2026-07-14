@@ -1,4 +1,10 @@
-# Hi there!
+
+<img width="6912" height="3456" alt="Alfredo Torres (2)" src="https://github.com/user-attachments/assets/844cc9c9-92f9-42f1-ad5a-6d089f0edf52" />
+---
+## Achievement
+Our team won **2nd place in the AI and Machine Learning track** in *SMathHacks 2026*
+---
+# AI Carbon Sink Predictor (ACSP)
 This is a bit after the hackathon submission, but I decided to make a README anyway for those who are just looking around my profile/hackathon submissions.
 
 This hackathon submission was really inspired by hardworking scientists. 
